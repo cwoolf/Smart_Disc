@@ -1,1 +1,0 @@
-Hello World! Sal should now be able to commit his changes and merge them into the master.
